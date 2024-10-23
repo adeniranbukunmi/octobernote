@@ -1,0 +1,8 @@
+scripting is a type of coding that provide instruction to a computer to perform a specific function or task
+
+first assignment
+1.what is concatenation
+list types of concatenation method with example
+2.declare a variable name, color, weight, and age and out put and information related to the variable store
+3. collect user data (first_name, last_name, location, address and email ) and output a description of the user
+
